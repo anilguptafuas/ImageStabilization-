@@ -1,0 +1,130 @@
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageStabilizationHtmTests.deps.json
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageStabilizationHtmTests.runtimeconfig.json
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageStabilizationHtmTests.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageStabilizationHtmTests.dll
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageStabilizationHtmTests.pdb
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageBinarizer.dll
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageBinarizer.pdb
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.csproj.CopyComplete
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.dll
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.pdb
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Helpers.cs
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Lamp.png
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\LampShift.png
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\LampRotate.png
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Fish.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\FishRotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Bat.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\BatShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Boy.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\BoyRotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\BoyShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Butterfly.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\butterflyRotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\ButterflyShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Cam.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CamRotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CamShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Cat.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CatRotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CatShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Crown.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CrownRotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CrownShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Cup.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CupRotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CupShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Dog.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\DogRotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\DogShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\FishShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Flower.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\FlowerRotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\FlowerShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Helicopter Rotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Helicopter.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\HelicopterShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Man.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\ManRotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\ManShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Smiley.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\SmileyRotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\SmileyShift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Batrotate.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Lamp100Shift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Lamp25Shift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Lamp50Shift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Lamp75Shift.PNG
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\LampWithoutShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Helpers.cs
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Bat.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Batrotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\BatShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Boy.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\BoyRotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\BoyShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Butterfly.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\butterflyRotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\ButterflyShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Cam.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CamRotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CamShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Cat.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CatRotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CatShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Crown.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CrownRotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CrownShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Cup.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CupRotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\CupShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Dog.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\DogRotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\DogShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Fish.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\FishRotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\FishShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Flower.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\FlowerRotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\FlowerShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Helicopter Rotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Helicopter.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\HelicopterShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Lamp.png
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Lamp100Shift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Lamp25Shift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Lamp50Shift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Lamp75Shift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\LampRotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\LampShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\LampWithoutShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Man.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\ManRotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\ManShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\Smiley.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\SmileyRotate.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\Images\SmileyShift.PNG
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageStabilizationHtmTests.deps.json
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageStabilizationHtmTests.runtimeconfig.json
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageStabilizationHtmTests.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageStabilizationHtmTests.dll
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageStabilizationHtmTests.pdb
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageBinarizer.dll
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\bin\Debug\netcoreapp2.1\ImageBinarizer.pdb
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.csproj.CopyComplete
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.dll
+C:\Users\Stefan\Desktop\C#HTM\ImageStabilizationHtmTests\obj\Debug\netcoreapp2.1\ImageStabilizationHtmTests.pdb

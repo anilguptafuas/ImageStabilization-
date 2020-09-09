@@ -1,0 +1,117 @@
+Given Image Width: 30
+Given Image Height: 30
+Given Output Column Width: 60
+Given Output Column Height: 60
+
+Active Columns of Untrained Image(LampWithoutShift.PNG):
+17, 92, 225, 314, 330, 344, 369, 446, 520, 742, 751, 785, 1105, 1185, 1284, 1422, 1476, 1764, 1847, 2130, 2201, 2309, 2327, 2329, 2374, 2375, 2383, 2492, 2493, 2548, 2594, 2610, 2654, 2676, 2758, 2770, 2772, 2805, 2809, 2816, 2828, 2860, 2881, 2917, 2939, 2946, 2952, 2959, 2986, 2988, 3001, 3015, 3026, 3035, 3076, 3086, 3090, 3163, 3168, 3183, 3210, 3239, 3338, 3342, 3368, 3381, 3386, 3473, 3503, 3545, 3567, 3582, 
+Number of Active Columns of Untrained Image(LampWithoutShift.PNG): 72
+
+Active Columns of Prediction of Trained Image with Shift(Lamp25Shift.PNG):
+17, 92, 225, 314, 330, 344, 369, 446, 520, 668, 742, 777, 785, 1185, 1422, 1451, 1476, 1558, 1847, 1981, 2037, 2201, 2327, 2329, 2374, 2375, 2383, 2404, 2522, 2548, 2594, 2610, 2654, 2676, 2758, 2770, 2772, 2805, 2809, 2816, 2828, 2860, 2881, 2917, 2939, 2946, 2952, 2959, 2986, 2988, 3001, 3015, 3026, 3035, 3076, 3086, 3090, 3163, 3168, 3183, 3210, 3239, 3338, 3342, 3368, 3381, 3386, 3473, 3503, 3545, 3567, 3582, 
+Number of Active Columns of Prediction of Trained Image with Shift(Lamp25Shift.PNG): 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Shift(Lamp25Shift.PNG): 16
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Shift(Lamp25Shift.PNG): 0.4444%
+
+Active Columns of Prediction of Trained Image with 90 degrees rotate(LampRotate.PNG):
+17, 92, 225, 314, 369, 446, 520, 668, 777, 785, 1078, 1266, 1390, 1448, 1451, 1558, 1619, 1847, 1924, 1981, 2037, 2044, 2327, 2329, 2375, 2383, 2404, 2522, 2548, 2594, 2610, 2654, 2676, 2715, 2758, 2770, 2772, 2805, 2809, 2816, 2828, 2860, 2881, 2917, 2939, 2946, 2952, 2959, 2986, 2988, 3001, 3015, 3026, 3035, 3076, 3086, 3090, 3163, 3168, 3183, 3210, 3239, 3338, 3342, 3368, 3381, 3386, 3473, 3503, 3545, 3567, 3582, 
+Number of Active Columns of Prediction of Trained Image with 90 degrees rotate(LampRotate.PNG): 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with 90 degrees rotate(LampRotate.PNG): 32
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with 90 degrees rotate(LampRotate.PNG): 0.8889%
+
+Active Columns of Prediction of Different Image than Trained Image(Fish.PNG):
+17, 92, 225, 314, 330, 344, 369, 446, 520, 668, 777, 785, 1078, 1266, 1451, 1558, 1619, 1847, 1981, 2037, 2044, 2159, 2297, 2327, 2329, 2383, 2404, 2522, 2548, 2594, 2610, 2654, 2676, 2715, 2758, 2770, 2772, 2805, 2809, 2816, 2828, 2860, 2881, 2917, 2939, 2946, 2952, 2959, 2986, 2988, 3001, 3015, 3026, 3035, 3076, 3086, 3090, 3163, 3168, 3183, 3210, 3239, 3338, 3342, 3368, 3381, 3386, 3473, 3503, 3545, 3567, 3582, 
+Number of Active Columns of Prediction of Different Image than Trained Image(Fish.PNG): 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of Different Image than Trained Image(Fish.PNG): 30
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of Different Image than Trained Image(Fish.PNG): 0.8333%
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 0 percent:
+17, 92, 225, 314, 330, 344, 369, 446, 520, 742, 751, 785, 1105, 1185, 1284, 1422, 1476, 1764, 1847, 2130, 2201, 2309, 2327, 2329, 2374, 2375, 2383, 2492, 2493, 2548, 2594, 2610, 2654, 2676, 2758, 2770, 2772, 2805, 2809, 2816, 2828, 2860, 2881, 2917, 2939, 2946, 2952, 2959, 2986, 2988, 3001, 3015, 3026, 3035, 3076, 3086, 3090, 3163, 3168, 3183, 3210, 3239, 3338, 3342, 3368, 3381, 3386, 3473, 3503, 3545, 3567, 3582, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 0 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 0 percent: 0
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 0 percent: 0%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 0 percent: Output Overlap: 1, Input Overlap: 1
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 1 percent:
+92, 225, 330, 344, 369, 446, 520, 742, 751, 785, 1105, 1119, 1169, 1185, 1284, 1285, 1301, 1355, 1422, 1476, 1764, 1774, 1847, 1887, 2015, 2086, 2130, 2201, 2309, 2375, 2383, 2492, 2594, 2610, 2654, 2676, 2758, 2770, 2772, 2805, 2809, 2816, 2828, 2860, 2881, 2917, 2939, 2946, 2952, 2959, 2986, 2988, 3001, 3015, 3035, 3086, 3090, 3163, 3168, 3183, 3210, 3239, 3338, 3342, 3368, 3381, 3386, 3473, 3503, 3545, 3567, 3582, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 1 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 1 percent: 18
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 1 percent: 0.5%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 1 percent: Output Overlap: 0.995, Input Overlap: 0.99
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 5 percent:
+17, 177, 201, 225, 293, 306, 314, 358, 369, 446, 453, 520, 742, 751, 777, 785, 1064, 1185, 1284, 1355, 1422, 1476, 1764, 1774, 1847, 1853, 1966, 2130, 2201, 2327, 2374, 2375, 2492, 2493, 2610, 2651, 2654, 2676, 2699, 2715, 2758, 2770, 2772, 2809, 2828, 2860, 2881, 2906, 2917, 2939, 2946, 2952, 2988, 3001, 3015, 3086, 3090, 3168, 3183, 3184, 3239, 3311, 3317, 3338, 3342, 3368, 3381, 3386, 3473, 3545, 3567, 3582, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 5 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 5 percent: 38
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 5 percent: 1.0556%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 5 percent: Output Overlap: 0.989444, Input Overlap: 0.95
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 10 percent:
+44, 208, 220, 225, 232, 293, 330, 358, 369, 446, 520, 742, 785, 812, 1185, 1476, 1774, 1847, 2078, 2130, 2201, 2309, 2317, 2327, 2374, 2375, 2383, 2492, 2493, 2548, 2610, 2654, 2676, 2720, 2732, 2737, 2758, 2770, 2772, 2805, 2809, 2828, 2844, 2860, 2881, 2939, 2946, 2978, 2986, 3001, 3015, 3026, 3035, 3076, 3086, 3090, 3128, 3160, 3163, 3168, 3185, 3210, 3239, 3338, 3342, 3368, 3381, 3386, 3390, 3503, 3567, 3582, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 10 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 10 percent: 38
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 10 percent: 1.0556%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 10 percent: Output Overlap: 0.989444, Input Overlap: 0.9
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 20 percent:
+28, 57, 92, 175, 363, 369, 421, 425, 426, 441, 453, 520, 548, 742, 751, 760, 761, 777, 785, 862, 1064, 1105, 1129, 1165, 1290, 1406, 1702, 1764, 1784, 1823, 1847, 1849, 1856, 1884, 1887, 1971, 1981, 2001, 2044, 2130, 2186, 2187, 2211, 2287, 2297, 2334, 2383, 2583, 2654, 2737, 2758, 2770, 2816, 2860, 2881, 2939, 2988, 3065, 3086, 3090, 3155, 3168, 3182, 3239, 3338, 3342, 3381, 3453, 3473, 3520, 3567, 3582, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 20 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 20 percent: 86
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 20 percent: 2.3889%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 20 percent: Output Overlap: 0.976111, Input Overlap: 0.8
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 30 percent:
+57, 225, 287, 291, 339, 358, 461, 462, 463, 467, 520, 521, 585, 716, 777, 782, 785, 1390, 1451, 1558, 1847, 1853, 1856, 1981, 2044, 2086, 2159, 2176, 2293, 2329, 2443, 2463, 2493, 2506, 2510, 2522, 2571, 2578, 2593, 2594, 2622, 2653, 2654, 2711, 2715, 2772, 2774, 2817, 2860, 2875, 2881, 2917, 2939, 2979, 2988, 3015, 3086, 3154, 3163, 3168, 3239, 3311, 3338, 3339, 3342, 3368, 3453, 3473, 3525, 3553, 3582, 3592, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 30 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 30 percent: 96
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 30 percent: 2.6667%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 30 percent: Output Overlap: 0.973333, Input Overlap: 0.7
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 40 percent:
+24, 344, 558, 742, 751, 776, 777, 785, 1078, 1105, 1128, 1194, 1226, 1369, 1370, 1390, 1438, 1451, 1476, 1608, 1619, 1728, 1774, 1847, 1853, 1911, 1924, 1966, 2015, 2040, 2195, 2227, 2296, 2358, 2374, 2375, 2383, 2404, 2449, 2492, 2493, 2597, 2619, 2653, 2654, 2677, 2697, 2742, 2770, 2831, 2850, 2859, 2860, 2901, 2957, 3015, 3016, 3017, 3086, 3090, 3095, 3133, 3137, 3143, 3207, 3209, 3223, 3317, 3321, 3342, 3410, 3582, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 40 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 40 percent: 104
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 40 percent: 2.8889%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 40 percent: Output Overlap: 0.971111, Input Overlap: 0.6
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 50 percent:
+17, 67, 419, 446, 447, 491, 622, 627, 785, 990, 1047, 1149, 1165, 1169, 1185, 1216, 1261, 1267, 1284, 1355, 1380, 1387, 1390, 1408, 1634, 2015, 2086, 2136, 2212, 2329, 2333, 2456, 2496, 2506, 2571, 2654, 2678, 2690, 2692, 2695, 2770, 2815, 2817, 2828, 2871, 2875, 2881, 2882, 2932, 2942, 2946, 2979, 2980, 2986, 2988, 2990, 2999, 3010, 3015, 3065, 3069, 3162, 3185, 3251, 3307, 3338, 3342, 3363, 3473, 3503, 3567, 3594, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 50 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 50 percent: 106
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 50 percent: 2.9444%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 50 percent: Output Overlap: 0.970556, Input Overlap: 0.5
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 60 percent:
+278, 532, 548, 664, 748, 759, 776, 785, 863, 896, 899, 925, 956, 997, 1068, 1089, 1092, 1105, 1288, 1310, 1315, 1354, 1390, 1394, 1435, 1450, 1451, 1463, 1466, 1503, 1513, 1529, 1559, 1577, 1581, 1618, 1619, 1627, 1631, 1633, 1634, 1683, 1696, 1698, 1700, 1752, 1764, 1769, 1795, 1809, 1828, 1840, 1947, 2007, 2010, 2037, 2084, 2130, 2131, 2132, 2140, 2188, 2258, 2277, 2297, 2308, 2319, 2485, 2493, 2500, 2654, 3381, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 60 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 60 percent: 130
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 60 percent: 3.6111%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 60 percent: Output Overlap: 0.963889, Input Overlap: 0.4
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 70 percent:
+76, 797, 902, 913, 1014, 1035, 1068, 1136, 1145, 1153, 1221, 1252, 1314, 1317, 1319, 1341, 1451, 1508, 1577, 1610, 1619, 1626, 1632, 1670, 1687, 1691, 1692, 1696, 1698, 1752, 1764, 1794, 1805, 1809, 1829, 1846, 1859, 1862, 1867, 1868, 1869, 1878, 1884, 1887, 1888, 1927, 1986, 1991, 2110, 2115, 2143, 2187, 2196, 2439, 2556, 2610, 2678, 2692, 2694, 2700, 2798, 2801, 2805, 2814, 2871, 2988, 3156, 3172, 3221, 3381, 3415, 3462, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 70 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 70 percent: 134
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 70 percent: 3.7222%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 70 percent: Output Overlap: 0.962778, Input Overlap: 0.3
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 80 percent:
+70, 130, 220, 415, 425, 545, 724, 783, 788, 858, 902, 905, 915, 965, 976, 1025, 1086, 1137, 1140, 1145, 1156, 1205, 1207, 1267, 1380, 1442, 1450, 1684, 1805, 1809, 1871, 2005, 2058, 2301, 2362, 2365, 2374, 2485, 2491, 2493, 2541, 2552, 2553, 2556, 2608, 2664, 2665, 2735, 2784, 2797, 2799, 2841, 2844, 2855, 2947, 3010, 3026, 3035, 3086, 3127, 3128, 3137, 3144, 3150, 3210, 3213, 3253, 3335, 3368, 3429, 3452, 3511, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 80 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 80 percent: 130
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 80 percent: 3.6111%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 80 percent: Output Overlap: 0.963889, Input Overlap: 0.2
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 90 percent:
+784, 906, 965, 1030, 1034, 1156, 1203, 1212, 1239, 1261, 1271, 1326, 1380, 1390, 1448, 1451, 1459, 1460, 1505, 1513, 1516, 1562, 1577, 1578, 1624, 1625, 1626, 1633, 1634, 1682, 1683, 1684, 1686, 1689, 1691, 1697, 1744, 1746, 1747, 1748, 1751, 1802, 1803, 1804, 1805, 1806, 1807, 1820, 1821, 1829, 1862, 1864, 1866, 1867, 1871, 1874, 1878, 1883, 1924, 1927, 1928, 1941, 1982, 1986, 1988, 2037, 2055, 2059, 2060, 2062, 2123, 2188, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 90 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 90 percent: 144
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 90 percent: 4%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 90 percent: Output Overlap: 0.96, Input Overlap: 0.1
+
+Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 100 percent:
+906, 911, 965, 1089, 1140, 1145, 1205, 1261, 1262, 1266, 1267, 1322, 1325, 1326, 1443, 1448, 1451, 1498, 1502, 1507, 1513, 1516, 1561, 1562, 1563, 1564, 1566, 1568, 1570, 1571, 1578, 1623, 1624, 1625, 1626, 1627, 1629, 1632, 1633, 1634, 1682, 1683, 1684, 1686, 1689, 1691, 1692, 1740, 1742, 1744, 1746, 1747, 1748, 1749, 1751, 1752, 1755, 1794, 1802, 1803, 1804, 1805, 1807, 1809, 1862, 1866, 1867, 1868, 1869, 1871, 1989, 2045, 
+Number of Active Columns of Prediction of Trained Image(LampWithoutShift.PNG) with Noise of 100 percent: 72
+Hamming Distance between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 100 percent: 144
+Hamming Distance in % between Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 100 percent: 4%
+Output Overlap versus Input Overlap for Trained Image(LampWithoutShift.PNG) and Prediction of same Image with Noise of 100 percent: Output Overlap: 0.96, Input Overlap: 0

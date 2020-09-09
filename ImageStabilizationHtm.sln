@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageStabilizationHtmTests", "ImageStabilizationHtmTests\ImageStabilizationHtmTests.csproj", "{F12DEAB6-9F37-4273-A6F7-3CCC6FAACF1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageBinarizer", "ImageBinarizer\ImageBinarizer.csproj", "{9C4E2AF4-4069-420D-AE16-1F3E0A31F482}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{70411A49-F2BC-4BCF-9CF4-0C92D383758E}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\Documentation for Approval of stabilization of similar images (HTM).docx = Documentation\Documentation for Approval of stabilization of similar images (HTM).docx
+		Documentation\Presentation for Approval of stabilization of similar images.pptx = Documentation\Presentation for Approval of stabilization of similar images.pptx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F12DEAB6-9F37-4273-A6F7-3CCC6FAACF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12DEAB6-9F37-4273-A6F7-3CCC6FAACF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12DEAB6-9F37-4273-A6F7-3CCC6FAACF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12DEAB6-9F37-4273-A6F7-3CCC6FAACF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4E2AF4-4069-420D-AE16-1F3E0A31F482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4E2AF4-4069-420D-AE16-1F3E0A31F482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4E2AF4-4069-420D-AE16-1F3E0A31F482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4E2AF4-4069-420D-AE16-1F3E0A31F482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4748300-8B3B-4288-A36C-1035EC79014B}
+	EndGlobalSection
+EndGlobal

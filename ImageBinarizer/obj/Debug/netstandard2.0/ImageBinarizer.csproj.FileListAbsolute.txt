@@ -1,0 +1,17 @@
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageBinarizer\bin\Debug\netstandard2.0\ImageBinarizer.deps.json
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageBinarizer\bin\Debug\netstandard2.0\ImageBinarizer.dll
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageBinarizer\bin\Debug\netstandard2.0\ImageBinarizer.pdb
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageBinarizer\obj\Debug\netstandard2.0\ImageBinarizer.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageBinarizer\obj\Debug\netstandard2.0\ImageBinarizer.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageBinarizer\obj\Debug\netstandard2.0\ImageBinarizer.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageBinarizer\obj\Debug\netstandard2.0\ImageBinarizer.dll
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageBinarizer\obj\Debug\netstandard2.0\ImageBinarizer.pdb
+C:\Users\Stefan\Desktop\Software engg\MyProject\ImageStabilizationHtm\ImageBinarizer\obj\Debug\netstandard2.0\ImageBinarizer.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#HTM\ImageBinarizer\bin\Debug\netstandard2.0\ImageBinarizer.deps.json
+C:\Users\Stefan\Desktop\C#HTM\ImageBinarizer\bin\Debug\netstandard2.0\ImageBinarizer.dll
+C:\Users\Stefan\Desktop\C#HTM\ImageBinarizer\bin\Debug\netstandard2.0\ImageBinarizer.pdb
+C:\Users\Stefan\Desktop\C#HTM\ImageBinarizer\obj\Debug\netstandard2.0\ImageBinarizer.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\C#HTM\ImageBinarizer\obj\Debug\netstandard2.0\ImageBinarizer.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\C#HTM\ImageBinarizer\obj\Debug\netstandard2.0\ImageBinarizer.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\C#HTM\ImageBinarizer\obj\Debug\netstandard2.0\ImageBinarizer.dll
+C:\Users\Stefan\Desktop\C#HTM\ImageBinarizer\obj\Debug\netstandard2.0\ImageBinarizer.pdb
